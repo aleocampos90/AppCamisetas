@@ -5,12 +5,12 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link" href="http://localhost:8080/AppCamisetas/">Home</a>
-      <a class="nav-item nav-link" href="http://localhost:8080/demoapp/pelicula/new">Formulario</a>
-      <a class="nav-item nav-link" href="http://localhost:8080/demoapp/paginas/index.html">Paginas - Index</a>
-      <a class="nav-item nav-link" href="http://localhost:8080/demoapp/paginas/saludo.html">Paginas - Saludo</a>
+      <a class="nav-item nav-link" href="http://localhost:8080/appCamisetas/">Home</a>
+      <a class="nav-item nav-link" href="http://localhost:8080/appCamisetas/login">Formulario</a>
+      <a class="nav-item nav-link" href="#">Paginas - Index</a>
+      <a class="nav-item nav-link" href="#">Paginas - Saludo</a>
        <a class="nav-item nav-link">|</a>
-             <a class="nav-item nav-link" href="http://localhost:8080/demoapp/noticias/">CRUD - Noticias</a>
+             <a class="nav-item nav-link" href="#">CRUD - Noticias</a>
     </div>
   </div>
 </nav>
